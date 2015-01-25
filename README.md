@@ -1,10 +1,16 @@
 # python-getting-started
 
+work in progress
+
 ## Lessons
+
+I try to gather some simple Python lessons, to give a little introduction into
+Python and some more advanced examples of what can be done with Python and some
+external libraries.
 
 ### Lesson 01
 
-Simple "Hello World" python program with a little bit UTF-8.
+Simple "Hello World" Python program with a little bit UTF-8.
 
 ### Lesson 02
 
