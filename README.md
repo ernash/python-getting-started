@@ -26,3 +26,10 @@ Simple for-loop with range and printing of the counted number.
 Playing with matplotlib
 
 ![matplotlib](https://github.com/ernash/python-getting-started/blob/master/image/matplotlib.pyplot.png)
+
+### Lesson 05
+
+Playing with SimpleHTTPServer.
+
+The server listens to port 80 and will serve the index.html in the same
+directory.
